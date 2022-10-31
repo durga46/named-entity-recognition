@@ -9,7 +9,7 @@ we aim to develop an LSTM-based neural network model using Bidirectional Recurre
 
 ## Neural Network Model
 
-[ai6.pdf](https://github.com/durga46/named-entity-recognition/files/9900023/ai6.pdf)
+![i3](https://user-images.githubusercontent.com/75235704/198981607-77739af1-be03-4aef-92dd-d35206b44704.png)
 
 ## DESIGN STEPS
 
