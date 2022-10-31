@@ -9,7 +9,7 @@ we aim to develop an LSTM-based neural network model using Bidirectional Recurre
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+[ai6.pdf](https://github.com/durga46/named-entity-recognition/files/9900023/ai6.pdf)
 
 ## DESIGN STEPS
 
@@ -182,10 +182,12 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
+![i1](https://user-images.githubusercontent.com/75235704/198980817-d50cd084-d57a-4edc-8d3b-b836208f6ae2.png)
+![i2](https://user-images.githubusercontent.com/75235704/198980827-28e71c53-41d5-40ce-be03-726163fcd65a.png)
 
 ### Sample Text Prediction
-Include your sample text prediction here.
+![i3](https://user-images.githubusercontent.com/75235704/198980876-dfe42114-a97d-426b-8bc3-182d125961db.png)
+
 
 ## RESULT
+Thus, an LSTM-based model for recognizing the named entities in the text is developed.
