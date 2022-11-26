@@ -1,4 +1,6 @@
-# Named Entiry Recognition
+## EX.NO.06
+## DATE: 25.10.2022
+# <p align="center">Named Entiry Recognition</p>
 
 ## AIM
 
@@ -15,6 +17,8 @@ we aim to develop an LSTM-based neural network model using Bidirectional Recurre
 
 ### STEP 1:
 Import the necessary packages.
+
+
 
 ### STEP 2:
 Read the dataset, and fill the null values using forward fill
@@ -186,6 +190,12 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![i2](https://user-images.githubusercontent.com/75235704/198980827-28e71c53-41d5-40ce-be03-726163fcd65a.png)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Sample Text Prediction
 ![i3](https://user-images.githubusercontent.com/75235704/198980876-dfe42114-a97d-426b-8bc3-182d125961db.png)
